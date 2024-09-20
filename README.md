@@ -24,10 +24,10 @@ This application leverages advanced AI techniques to allow users to ask question
 
 Create a `.env` file in the root directory and add your API keys:
 
-   ```plaintext
-   GROQ_API_KEY=your_groq_api_key
-   GOOGLE_API_KEY=your_google_api_key
-   ```
+      ```plaintext
+      GROQ_API_KEY=your_groq_api_key
+      GOOGLE_API_KEY=your_google_api_key
+      ```
 
 ## Running the Application
 1. Clone the repository:
