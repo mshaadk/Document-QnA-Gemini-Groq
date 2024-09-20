@@ -24,23 +24,23 @@ This application leverages advanced AI techniques to allow users to ask question
 
 Create a `.env` file in the root directory and add your API keys:
 
-  ```plaintext
-  GROQ_API_KEY=your_groq_api_key
-  GOOGLE_API_KEY=your_google_api_key
-  ```
+   ```plaintext
+   GROQ_API_KEY=your_groq_api_key
+   GOOGLE_API_KEY=your_google_api_key
+   ```
 
 ## Running the Application
 1. Clone the repository:
 
-  ```bash
-  git clone https://github.com/mshaadk/Document-QnA-Gemini-Groq.git
-  cd Document-QnA-Gemini-Groq
-  ```
+   ```bash
+   git clone https://github.com/mshaadk/Document-QnA-Gemini-Groq.git
+   cd Document-QnA-Gemini-Groq
+   ```
 2. Run the Streamlit app:
-
-  ```bash
-  streamlit run app.py
-  ```
+   
+   ```bash
+   streamlit run app.py
+   ```
 
 3. Open your browser and navigate to `http://localhost:8501` to access the application.
 
