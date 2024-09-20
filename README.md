@@ -2,10 +2,6 @@
 
 This application leverages advanced AI techniques to allow users to ask questions about documents and receive accurate answers based on the content.
 
-## Overview
-
-This project utilizes the **LangChain** framework, **Gemini**, **Groq** and a vector store for efficient document retrieval and question answering.
-
 ## Features
 
 - **Document Upload:** Load documents from a specified directory.
